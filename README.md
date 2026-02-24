@@ -71,8 +71,8 @@
 
 | الملف | الوصف |
 |-------|-------|
-| [ConvertPYtoEXE_AR.exe](#) | النسخة العربية الاحترافية - لا يحتاج تثبيت |
-| [ConvertPYtoEXE_EN.exe](#) | النسخة الإنجليزية الاحترافية - لا يحتاج تثبيت |
+| [ConvertPYtoEXE_AR.exe](https://github.com/ps91andr/ConvertPYtoEXEusingpyInstaller_AR_EN/releases/tag/ConvertPYtoEXEusingpyInstaller_AR_EN) | النسخة العربية الاحترافية - لا يحتاج تثبيت |
+| [ConvertPYtoEXE_EN.exe](https://github.com/ps91andr/ConvertPYtoEXEusingpyInstaller_AR_EN/releases/tag/ConvertPYtoEXEusingpyInstaller_AR_EN) | النسخة الإنجليزية الاحترافية - لا يحتاج تثبيت |
 
 ---
 
@@ -295,8 +295,8 @@ anti_debug_protection()
 
 | File | Description |
 |------|-------------|
-| [ConvertPYtoEXE_AR.exe](#) | Professional Arabic version – No installation needed |
-| [ConvertPYtoEXE_EN.exe](#) | Professional English version – No installation needed |
+| [ConvertPYtoEXE_AR.exe](https://github.com/ps91andr/ConvertPYtoEXEusingpyInstaller_AR_EN/releases/tag/ConvertPYtoEXEusingpyInstaller_AR_EN) | Professional Arabic version – No installation needed |
+| [ConvertPYtoEXE_EN.exe](https://github.com/ps91andr/ConvertPYtoEXEusingpyInstaller_AR_EN/releases/tag/ConvertPYtoEXEusingpyInstaller_AR_EN) | Professional English version – No installation needed |
 
 ---
 
