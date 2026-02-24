@@ -18,6 +18,7 @@
   
 <!-- قسم الروابط المصحح -->
 <h3>
+    <a href="#arabic_section">العربية</a>
     <a href="#features">المميزات</a> •
     <a href="#download">التحميل</a> •
     <a href="#usage">الاستخدام</a> •
@@ -31,6 +32,7 @@
     <a href="#arabic_section">العربية</a>
 </h3>
  <h3>
+    <a href="#english_section">English</a>
     <a href="#features">المميزات</a> •
     <a href="#download">التحميل</a> •
     <a href="#usage">الاستخدام</a> •
