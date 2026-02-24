@@ -297,6 +297,7 @@ anti_debug_protection()
 <div id="Efeatures"></div>
 
 ### ✨ Features
+
 | Feature | Description |
 |--------|-------------|
 | 🔒 **One-File** | Merge all libraries and files into a single EXE file |
