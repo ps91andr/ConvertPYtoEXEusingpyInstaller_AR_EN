@@ -33,7 +33,7 @@
 </h3>
  <h3>
     <a href="#english_section">English</a>
-    <a href="#features">المميزات</a> •
+    <a href="#Efeatures">features</a> •
     <a href="#download">التحميل</a> •
     <a href="#usage">الاستخدام</a> •
     <a href="#files">الملفات</a> •
@@ -284,8 +284,10 @@ anti_debug_protection()
 
 <div dir="ltr">
 
-### Overview
 
+<div id="Efeatures"></div>
+
+### ✨ Overview
 **Python to EXE Professional** is a powerful open-source GUI tool designed for developers to convert Python files (`.py`) into executable files (`.exe`) effortlessly. The tool combines the power of **PyInstaller** with **UPX compression**, an integrated Version Info editor, and advanced protection layers.
 
 ---
