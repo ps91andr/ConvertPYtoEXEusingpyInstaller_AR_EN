@@ -19,7 +19,7 @@
 <!-- قسم الروابط المصحح -->
 <h3>
     <a href="#features">المميزات</a> •
-    <a href="#usage">التثبيت</a> •
+    <a href="#download">التحميل</a> •
     <a href="#usage">الاستخدام</a> •
     <a href="#files">الملفات</a> •
     <a href="#contact">التواصل</a> •
@@ -69,10 +69,11 @@
   
 </div>
  
----
+
+
+<div id="download"></div>
 
 ### 📦 التحميل المباشر
-
 #### نسخ جاهزة للتشغيل (Windows)
 
 | الملف | الوصف |
@@ -249,8 +250,9 @@ anti_debug_protection()
 
 ---
 
-### 📬 التواصل
+<div id="contact"></div>
 
+### 📬 التواصل
 - **المطور**: فهد علي (FAHED ALI)(#)
 - **البريد الإلكتروني**: [ps91andr@gmail.com](mailto:ps91andr@gmail.com)(#)
 - **غيت هاب**: [@ps91andr](https://github.com/ps91andr)(#)
@@ -267,6 +269,7 @@ anti_debug_protection()
 </div>
 
 ---
+<div id="english_section"></div>
 
 ## 🎧 English
 
