@@ -1,5 +1,5 @@
-# ConvertPYtoEXEusingpyInstaller_AR_EN
-# ⚙️ Python-to-EXE-Professional-Converter-PyInstaller
+
+# ⚙️ Python-to-EXE-Professional-Converter-PyInstaller_AR_EN
 
 <div align="center">
   
@@ -61,7 +61,7 @@
 ---
 
 ### 🖼️ لقطات شاشة
-![Screenshot](https://github.com/YourUsername/PyInstaller-Professional-EXE-Converter/blob/main/screenshot.png)
+![Screenshot](https://github.com/ps91andr/ConvertPYtoEXEusingpyInstaller_AR_EN/blob/main/AR.png)
 
 ---
 
@@ -285,7 +285,7 @@ anti_debug_protection()
 ---
 
 ### 🖼️ Screenshots
-![Screenshot](https://github.com/YourUsername/PyInstaller-Professional-EXE-Converter/blob/main/screenshot.png)
+![Screenshot](https://github.com/ps91andr/ConvertPYtoEXEusingpyInstaller_AR_EN/blob/main/EN.png)
 
 ---
 
