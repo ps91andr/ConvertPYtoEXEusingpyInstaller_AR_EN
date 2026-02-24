@@ -16,6 +16,7 @@
     <img src="https://img.shields.io/badge/platform-windows-lightgrey" alt="Platforms">
   </p>
   
+<!-- قسم الروابط المصحح -->
 <h3>
     <a href="#المميزات">المميزات</a> •
     <a href="#طريقة-الاستخدام">التثبيت</a> •
