@@ -63,7 +63,13 @@
 ### 🖼️ لقطات شاشة
 ![Screenshot](https://github.com/ps91andr/ConvertPYtoEXEusingpyInstaller_AR_EN/blob/main/AR.png)
 
+
+<div align="center">
+  
+</div>
+
 ---
+
 ### 📦 التحميل المباشر
 
 #### نسخ جاهزة للتشغيل (Windows)
