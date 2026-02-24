@@ -16,31 +16,32 @@
     <img src="https://img.shields.io/badge/platform-windows-lightgrey" alt="Platforms">
   </p>
   
+<!-- تبديل اللغة -->
   <h3>
-    <a href="#english_section">English</a> |
-    <a href="#arabic_section">العربية</a>
-</h3>
+    <a href="#english_section">English</a> | <a href="#arabic_section">العربية</a>
+  </h3>
 
-<h3>
-    <a href="#arabic_section">العربية</a>
-    <a href="#features">المميزات</a> •
-    <a href="#download">التحميل</a> •
-    <a href="#usage">الاستخدام</a> •
-    <a href="#files">الملفات</a> •
-    <a href="#contact">التواصل</a> •
+  <!-- قائمة الانتقال السريع - العربية -->
+  <p>
+    <b>قائمة العربية:</b> 
+    <a href="#features">المميزات</a> • 
+    <a href="#download">التحميل</a> • 
+    <a href="#usage">الاستخدام</a> • 
+    <a href="#files">الملفات</a> • 
+    <a href="#contact">التواصل</a> • 
     <a href="#disclaimer">إخلاء المسؤولية</a>
-</h3>
+  </p>
 
-
- <h3>
-    <a href="#english_section">English</a> •
-    <a href="#Efeatures">features</a> •
-    <a href="#Edownload">download</a> •
-    <a href="#Eusage">usage</a> •
-    <a href="#Efiles">files</a> •
-    <a href="#Econtact">contact</a> •
-    <a href="#Edisclaimer">disclaimer</a>
-</h3> 
+  <!-- Quick Navigation - English -->
+  <p>
+    <b>English Menu:</b> 
+    <a href="#Efeatures">Features</a> • 
+    <a href="#Edownload">Download</a> • 
+    <a href="#Eusage">Usage</a> • 
+    <a href="#Efiles">Files</a> • 
+    <a href="#Econtact">Contact</a> • 
+    <a href="#Edisclaimer">Disclaimer</a>
+  </p>
 </div>
 
 ---
