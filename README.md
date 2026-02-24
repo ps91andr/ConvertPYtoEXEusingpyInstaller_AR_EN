@@ -16,7 +16,11 @@
     <img src="https://img.shields.io/badge/platform-windows-lightgrey" alt="Platforms">
   </p>
   
-<!-- قسم الروابط المصحح -->
+  <h3>
+    <a href="#english_section">English</a> |
+    <a href="#arabic_section">العربية</a>
+</h3>
+
 <h3>
     <a href="#arabic_section">العربية</a>
     <a href="#features">المميزات</a> •
@@ -27,14 +31,11 @@
     <a href="#disclaimer">إخلاء المسؤولية</a>
 </h3>
 
-<h3>
-    <a href="#english_section">English</a> |
-    <a href="#arabic_section">العربية</a>
-</h3>
+
  <h3>
-    <a href="#english_section">English</a>
+    <a href="#english_section">English</a> •
     <a href="#Efeatures">features</a> •
-    <a href="#download">التحميل</a> •
+    <a href="#Edownload">download</a> •
     <a href="#usage">الاستخدام</a> •
     <a href="#files">الملفات</a> •
     <a href="#contact">التواصل</a> •
@@ -313,8 +314,10 @@ anti_debug_protection()
 
 ---
 
-### 📦 Direct Download
 
+<div id="Edownload"></div>
+
+### 📦 Direct Download
 #### Ready-to-Run Versions (Windows EXE)
 
 | File | Description |
