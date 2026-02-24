@@ -36,10 +36,10 @@
     <a href="#english_section">English</a> •
     <a href="#Efeatures">features</a> •
     <a href="#Edownload">download</a> •
-    <a href="#usage">الاستخدام</a> •
-    <a href="#files">الملفات</a> •
-    <a href="#contact">التواصل</a> •
-    <a href="#disclaimer">إخلاء المسؤولية</a>
+    <a href="#Eusage">usage</a> •
+    <a href="#Efiles">files</a> •
+    <a href="#Econtact">contact</a> •
+    <a href="#Edisclaimer">disclaimer</a>
 </h3> 
 </div>
 
@@ -293,8 +293,10 @@ anti_debug_protection()
 
 ---
 
-### ✨ Features
 
+<div id="Efeatures"></div>
+
+### ✨ Features
 | Feature | Description |
 |--------|-------------|
 | 🔒 **One-File** | Merge all libraries and files into a single EXE file |
@@ -327,6 +329,8 @@ anti_debug_protection()
 
 ---
 
+<div id="Eusage"></div>
+
 ### 🚀 How to Use
 
 1. **Select File**: Drag and drop your `.py` file into the program or use the "Browse" button.
@@ -340,6 +344,8 @@ anti_debug_protection()
 
 ---
 
+<div id="Efiles"></div>
+
 ### 🎛️ Supported Files
 
 | File Type | Extension | Purpose |
@@ -350,6 +356,8 @@ anti_debug_protection()
 | UPX Tool | `upx.exe` | Optional tool for compressing the EXE |
 
 ---
+
+<div id="Edisclaimer"></div>
 
 ### ⚖️ Disclaimer
 
@@ -483,6 +491,8 @@ By using this tool you:
 </div>
 
 ---
+
+<div id="Econtact"></div>
 
 ### 📬 Contact
 
