@@ -81,6 +81,7 @@
 | [ConvertPYtoEXE_EN.exe](https://github.com/ps91andr/ConvertPYtoEXEusingpyInstaller_AR_EN/releases/tag/ConvertPYtoEXEusingpyInstaller_AR_EN) | النسخة الإنجليزية الاحترافية - لا يحتاج تثبيت |
 
 ---
+
 <div id="usage"></div>
 
 ### 🚀 طريقة الاستخدام
@@ -95,8 +96,9 @@
 
 ---
 
-### 🎛️ الملفات المدعومة
+<div id="files"></div>
 
+### 🎛️ الملفات المدعومة
 | نوع الملف | الامتداد | الوظيفة |
 |--------|----------|-----------------|
 | Python Script | `.py` | الملف البرمجي الأساسي المراد تحويله |
@@ -105,6 +107,8 @@
 | UPX Tool | `upx.exe` | أداة اختيارية تستخدم لضغط حجم الملف |
 
 ---
+
+<div id="disclaimer"></div>
 
 ### ⚖️ إخلاء المسؤولية
 
