@@ -30,7 +30,14 @@
     <a href="#english_section">English</a> |
     <a href="#arabic_section">العربية</a>
 </h3>
-  
+ <h3>
+    <a href="#features">المميزات</a> •
+    <a href="#download">التحميل</a> •
+    <a href="#usage">الاستخدام</a> •
+    <a href="#files">الملفات</a> •
+    <a href="#contact">التواصل</a> •
+    <a href="#disclaimer">إخلاء المسؤولية</a>
+</h3> 
 </div>
 
 ---
